@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\bin\Debug\qlythuvien.exe.config
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\bin\Debug\qlythuvien.exe
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\bin\Debug\qlythuvien.pdb
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.Dangnhap.resources
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.giaodienchinh.resources
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.csproj.Up2Date
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.exe
+C:\Users\Lenovo\source\repos\qlythuvien\qlythuvien\obj\Debug\qlythuvien.pdb
